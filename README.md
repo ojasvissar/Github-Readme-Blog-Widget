@@ -2,7 +2,7 @@
 
 A dynamic card widget that generates beautiful preview images for Medium articles. Perfect for GitHub READMEs, portfolios, and documentation.
 
-![Example Card](https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f)
+![Example Card](https://medium-card-widget.vercel.app/api/card?url=https://medium.com/@ojasvissar/ai-in-the-fight-against-climate-change-predicting-environmental-trends-before-its-too-late-0ca6fadce36f&v=2)
 
 ## Usage
 
